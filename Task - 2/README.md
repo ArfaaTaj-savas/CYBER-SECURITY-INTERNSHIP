@@ -1,4 +1,4 @@
-# Phishing Email Analysis Report
+# Task 2: Phishing Email Analysis Report
 
 ## 1. Objective
 The objective of this task was to analyze a sample email file (`.eml`) to identify its characteristics and determine if it was a phishing attempt.
