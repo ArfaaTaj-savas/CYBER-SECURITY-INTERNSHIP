@@ -7,6 +7,7 @@ The objective of this task was to analyze a sample email file (`.eml`) to identi
 * **Operating System:** Kali Linux
 * **Terminal Commands:** `cd`, `ls`, `cat`
 * **Sample Source:** A sample `.eml` file obtained from a public GitHub repository.
+* **Sample Source Link** https://github.com/rf-peixoto/phishing_pot.
 
 ## 3. Process
 1.  **Obtain Sample:** A safe phishing email sample (`sample-1.eml`) was downloaded.
