@@ -1,14 +1,23 @@
 # Task 3: Basic Vulnerability Scan
 
 ## Objective
-To perform a vulnerability scan on my host PC using tools within a Kali Linux VM.
+The goal of this task was to perform a basic vulnerability scan on my personal computer to identify common security risks using free tools.
 
 ## Tools Used
 * **Scanner:** Nessus Essentials
-* **Platform:** Kali Linux (VMware)
-* **Target:** Host PC (IP: [Enter the IP you scanned here])
+* **Platform:** Kali Linux (running in a VMware VM)
+* **Target:** My host PC (IP: 192.168.140.2)
+
+## Process
+1.  Installed Nessus Essentials on the Kali Linux VM.
+2.  Configured a "Basic Network Scan" targeting my host machine's IP address (`192.168.140.2`).
+3.  Launched the scan and waited for it to complete.
+4.  Analyzed the generated report to identify vulnerabilities.
 
 ## Summary of Findings
-The scan found [Number] total vulnerabilities. The most critical issue was [Describe the most severe vulnerability you found].
+* *(You will fill this in after the scan is complete.)*
+* *(Example: The scan identified 5 vulnerabilities, with 1 'High' and 4 'Medium'.)*
 
-*Full PDF report and screenshots are included in this repository.*
+---
+
+*The full exported scan report (PDF) and screenshots of critical vulnerabilities are included in this repository.*
